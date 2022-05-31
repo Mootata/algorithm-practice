@@ -1,4 +1,4 @@
-import heapq
+import heapq // 힙
 import sys
 
 n = int(sys.stdin.readline()) # 연산의 개수 n
